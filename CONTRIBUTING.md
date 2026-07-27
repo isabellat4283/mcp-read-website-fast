@@ -24,3 +24,4 @@ Notes and usage details for mcp-read-website-fast.
 - add a note about the defaults
 - add a note about the defaults
 - clarify the setup steps
+- link the usage section
